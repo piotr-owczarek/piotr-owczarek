@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 <br/> My name is Piotr Owczarek and I'm an RPA developer and administrator
 
-<!--
-**piotr-owczarek/piotr-owczarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+![Robotic Process Automation](https://img.shields.io/badge/RPA-black?logo=RuboCop)
+![UiPath](https://img.shields.io/badge/UiPath-black?logo=UiPath)
+![CSharp](https://img.shields.io/badge/C%23-black)
+![Python](https://img.shields.io/badge/Python-black?logo=Python)
+![SQL](https://img.shields.io/badge/SQL-black)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)
 
-Here are some ideas to get you started:
+### Learning
+![Power Platform](https://img.shields.io/badge/Power_Platform-black)
+![Azure](https://img.shields.io/badge/Azure-black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+<a href="https://www.linkedin.com/in/piotr-owczarek98/">
+  <img src="https://img.icons8.com/?size=100&id=16166&format=png&color=0288D1" alt="Linkedin" width="50" height="50">
+</a>
